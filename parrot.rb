@@ -3,7 +3,6 @@
 def parrot("Pretty bird!")
   sound = "Squawk!"
   puts sound
-  return sound
 end
 
 parrot
